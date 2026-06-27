@@ -1,6 +1,6 @@
 ## Hi, long time no see 👋
 
-There are a lot of my ideas here , and I'm slowly implementing them.
+这是一个舞动的音乐播放器，希望可以做到更视觉冲击的音乐效果.
 
 <!--
 
