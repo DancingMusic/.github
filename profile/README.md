@@ -1,6 +1,6 @@
-## Hi, long time no see 👋
+DancingMusic is a music player and real-time visualization project. The app keeps the player host, SDK contracts, store catalogs, and runtime-loaded implementations in separate repositories so each surface can evolve independently.
 
-这是一个舞动的音乐播放器，希望可以做到更视觉冲击的音乐效果.
+Official website: https://dancingmusic.github.io/
 
 <!--
 
